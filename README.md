@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack Software Engineer who builds scalable and elegant solutions 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olasunkanmi-feranmi-068271193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/olasunkanmi-emmanuel-jesuferanmi-068271193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:feranmiolasunkanmi91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
