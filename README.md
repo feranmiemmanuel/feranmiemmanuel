@@ -64,6 +64,6 @@
 Feel free to reach out or just say hi 👋  
 📫 [mailto:feranmiolasunkanmi91@gmail.com](mailto:mailto:feranmiolasunkanmi91@gmail.com)
 🐦 [@FeranmiEmmanue8](https://twitter.com/FeranmiEmmanue8)  
-👔 [LinkedIn](https://linkedin.com/in/olasunkanmi-feranmi-068271193)
+👔 [LinkedIn](https://www.linkedin.com/in/olasunkanmi-emmanuel-jesuferanmi-068271193/)
 
 ---
